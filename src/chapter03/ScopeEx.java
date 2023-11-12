@@ -19,6 +19,8 @@ public class ScopeEx { // 클래스 블럭
 		// if문 블럭 밖에서 email 변수를 사용하면 에러 발생
 		email = "hong@test.com";
 		
+		// abc
+		
 	}
 
 }
