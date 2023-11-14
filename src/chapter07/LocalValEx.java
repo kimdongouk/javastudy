@@ -19,6 +19,8 @@ public class LocalValEx {
 			int temp = 0;
 			temp += i;
 		}
+		
+//		System.out.println(temp); 에러
 
 	}
 
