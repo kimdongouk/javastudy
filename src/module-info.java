@@ -1,3 +1,3 @@
-module javastudy {
-	requires test2;
-}
+//module javastudy {
+//	requires test2;
+//}
